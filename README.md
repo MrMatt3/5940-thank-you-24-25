@@ -1,8 +1,8 @@
-# Thank you, Intuitive Foundation!
-LionBot Robotics FRC#7245's digital thank you card to the Intuitive Foundation for their support during the FRC CRESCENDO 2024 season. Hosted on Github Pages.
+# Thank you, Bread FRC5940!
+LionBot Robotics FRC#7245's digital thank you card to the Bread 5940 for donating us their old carpet. Hosted on Github Pages.
 
 # View the Thank You Card!
-https://lionbots.github.io/intuitive-foundation-thank-you-23-24/
+(Link will be posted later)
 
 # Credits/Attribution:
 
